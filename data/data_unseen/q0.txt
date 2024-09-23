@@ -1,0 +1,10 @@
+What did Andres Freund discover in the Linux utility xz, and how was it introduced?
+How did the backdoor in xz affect the behavior of OpenSSH's SSH server daemon?
+What methods did the attacker use to gain the position of co-maintainer in the XZ Utils project?
+Explain the specific technical details of how the backdoor was able to give remote code execution capabilities to an attacker.
+What were the steps taken by Linux software vendors and the Cybersecurity and Infrastructure Security Agency (CISA) after the backdoor was discovered?
+How did the backdoor remain dormant and what conditions were necessary for it to be activated?
+Who are some of the suspected pseudonyms involved in the campaign to introduce the backdoor into XZ Utils?
+What were the consequences and actions taken by Canonical regarding the beta release of Ubuntu 24.04 LTS?
+What are the possible implications of the backdoor had it not been detected, according to computer scientist Alex Stamos?
+What were the suspected affiliations of the perpetrator behind the backdoor, and what level of sophistication did the backdoor exhibit?

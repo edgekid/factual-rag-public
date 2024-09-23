@@ -1,0 +1,5 @@
+FOR GENERATING CONTRADICTORY DATA:
+Consider the following text and return the same text but with attributes replaced by their antonym. Ignore verbs and subjects of the sentences. In essence, you want to make it so all claims are contradictory to their corresponding claims in the original text. Make sure the resulting text still makes sense. This is the text:
+
+FOR GENERATING QUESTIONS:
+When you are asked to generate text, you are meant to only generate what you are asked without any added characters. Generate 10 questions, such that the answers have to be detailed and such that the answers can be extracted from the following text:

@@ -1,0 +1,10 @@
+What are the core principles of Python's design philosophy?
+Who began working on Python and when was it first released?
+How does Python manage memory, and what are the key features of its memory management system?
+What are some of the major programming paradigms supported by Python?
+Describe the release history and significance of Python 2.0 and Python 3.0.
+What was the reason for extending Python 2.7's end-of-life from 2015 to 2020?
+What were the notable changes introduced in Python 3.11 and Python 3.12?
+How did the Python community respond to criticisms regarding the addition of new features?
+What are some functional programming tools and techniques supported by Python?
+Describe the governance transition that took place in the Python project after Guido van Rossum's retirement.
